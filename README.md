@@ -12,3 +12,4 @@ Simple on-chain lottery DApp on Stacks blockchain.
   - `get-tickets(player)` → check player tickets
   - `get-total-tickets()` → total tickets sold
 2026-02-14 21:02:48 - implementation detail
+2026-02-14 21:03:19 - added dev note
