@@ -127,3 +127,4 @@
 2026-02-18 13:27:44 - added dev note
 2026-02-18 13:28:14 - added dev note
 2026-02-18 13:28:22 - added dev note
+2026-02-18 13:29:30 - implementation detail
