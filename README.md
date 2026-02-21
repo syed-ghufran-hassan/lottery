@@ -211,3 +211,4 @@ Simple on-chain lottery DApp on Stacks blockchain.
 2026-02-20 15:07:15 - progress update
 2026-02-20 15:07:43 - progress update
 2026-02-21 13:41:38 - implementation detail
+2026-02-21 13:41:55 - added dev note
